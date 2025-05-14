@@ -1,0 +1,25 @@
+# Arquivos Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ambientes virtuais
+.env/
+.venv/
+env/
+venv/
+
+# Arquivos temporários e de sistema
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+
+# Arquivos de dados gerados pelo script
+folha_completa_*.csv
+ultima_pagina.json
+
+# Configurações do VSCode
+.vscode/
